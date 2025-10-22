@@ -1,1 +1,1 @@
-# DATA-analytics
+Practicals in Data Science
